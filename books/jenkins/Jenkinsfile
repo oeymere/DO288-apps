@@ -13,7 +13,7 @@ pipeline {
         //TODO: Edit these vars as per your env
         DEV_PROJECT = "oeymere-books-dev"
         STAGE_PROJECT = "oeymere-books-stage"
-        APP_GIT_URL = "https://github.com/oeymere/DO288-apps"
+        APP_GIT_URL = "https://github.com/oeymere/DO288-apps#custom-pipeline"
         NEXUS_SERVER = "http://nexus-common.apps.na45.prod.nextcle.com/repository/nodejs"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
